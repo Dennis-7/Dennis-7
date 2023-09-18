@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dennis-7
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on an online store projects
+- 👀 I’m interested in all things JavaSscript
 - 📫 How to reach me => dashingdennis7@gmail.com
 
 <!---
