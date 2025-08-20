@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dennis-7
-- 👀 I’m React| Node JS | Golang
+- 👀 I’m interested in React | Node JS | Golang
 - 📫 How to reach me => dashingdennis7@gmail.com
 
 <!---
